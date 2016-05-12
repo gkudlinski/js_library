@@ -102,6 +102,7 @@
   display: none;
 }
 .owl-carousel .owl-item {
+background-color:green;
   position: relative;
   min-height: 1px;
   float: left;
