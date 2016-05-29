@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAEA,IAAI,CACH,gBAAgB,CAFd,GAAG,CAIN,CAAC,CACA,gBAAgB,CANd,IAAO",
+"sources": ["../global.scss"],
+"names": [],
+"file": "global.css"
+}
